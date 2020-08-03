@@ -1,0 +1,19 @@
+{
+{ input = { name = "minecraft:lapis_block", damage = 0 }, blood = 1000, output = { name = "bloodmagic:ItemInscriptionTool", label = "Elemental Inscription Tool: Water", damage = 1 } },
+{ input = { name = "minecraft:magma_cream", damage = 0 }, blood = 1000, output = { name = "bloodmagic:ItemInscriptionTool", label = "Elemental Inscription Tool: Fire", damage = 2 } },
+{ input = { name = "minecraft:obsidian", damage = 0 }, blood = 1000, output = { name = "bloodmagic:ItemInscriptionTool", label = "Elemental Inscription Tool: Earth", damage = 3 } },
+{ input = { name = "minecraft:ghast_tear", damage = 0 }, blood = 1000, output = { name = "bloodmagic:ItemInscriptionTool", label = "Elemental Inscription Tool: Air", damage = 4 } },
+{ input = { name = "minecraft:coal_block", damage = 0 }, blood = 2000, output = { name = "bloodmagic:ItemInscriptionTool", label = "Elemental Inscription Tool: Dusk", damage = 5 } },
+{ input = { name = "minecraft:glowstone", damage = 0 }, blood = 200000, output = { name = "bloodmagic:ItemInscriptionTool", label = "Elemental Inscription Tool: Dawn", damage = 6 } },
+{ input = { name = "minecraft:stone", damage = 0 }, blood = 1000, output = { name = "bloodmagic:ItemSlate", label = "Blank Slate", damage = 0 } },
+{ input = { name = "bloodmagic:ItemSlate", damage = 0 }, blood = 2000, output = { name = "bloodmagic:ItemSlate", label = "Reinforced Slate", damage = 1 } },
+{ input = { name = "bloodmagic:ItemSlate", damage = 1 }, blood = 5000, output = { name = "bloodmagic:ItemSlate", label = "Imbued Slate", damage = 2 } },
+{ input = { name = "bloodmagic:ItemSlate", damage = 2 }, blood = 15000, output = { name = "bloodmagic:ItemSlate", label = "Demonic Slate", damage = 3 } },
+{ input = { name = "bloodmagic:ItemSlate", damage = 3 }, blood = 30000, output = { name = "bloodmagic:ItemSlate", label = "Ethereal Slate", damage = 4 } },
+{ input = { name = "minecraft:diamond", damage = 0 }, blood = 2000, output = { name = "bloodmagic:ItemBloodOrb", label = "Weak Blood Orb", damage = 0 } },
+{ input = { name = "minecraft:redstone_block", damage = 0 }, blood = 5000, output = { name = "bloodmagic:ItemBloodOrb", label = "Apprentice Blood Orb", damage = 1 } },
+{ input = { name = "minecraft:gold_block", damage = 0 }, blood = 25000, output = { name = "bloodmagic:ItemBloodOrb", label = "Magician Blood Orb", damage = 2 } },
+{ input = { name = "bloodmagic:ItemBloodShard", damage = 0 }, blood = 25000, output = { name = "bloodmagic:ItemBloodOrb", label = "Master Blood Orb", damage = 3 } },
+{ input = { name = "minecraft:nether_star", damage = 0 }, blood = 80000, output = { name = "bloodmagic:ItemBloodOrb", label = "Archmage Blood Orb", damage = 4 } },
+{ input = { name = "bloodmagic:BlockCrystal", damage = 0 }, blood = 200000, output = { name = "bloodmagic:ItemBloodOrb", label = "Transcendant Blood Orb", damage = 5 } }
+}
